@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7bead955-2531-4033-bec1-d0faeb296db4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e1/E1BooleanPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e1/Instrcutions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e10/E10AirthmeticOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e10/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e2/E2AgePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e2/Instrcutions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e3/E3CreatingVariableAndPrinting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e3/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e4/E4CreatingVariablesAndPrinting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e4/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e5/E5CreatingVariablesAndPrinting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e5/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e6/E6StringConcatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e6/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e7/E7StringConcatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e7/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e8/E8StringConcatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e8/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e9/E9AirthmeticOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e9/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e10airthmeticoperationstest/E10AirthmeticOperationsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e1booleanprintertest/E1BooleanPrinterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e2ageprintertest/E2AgePrinterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e5creatingvariablesandprintingtest/E5CreatingVariablesAndPrintingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e6stringconcatenationtester/E6StringConcatenationTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e7arraystest/E7ArraysTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e7stringconcatenationtest/E7StringConcatenationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e8stringconcatenationtest/E8StringConcatenationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e9airthmeticoperationstest/E9AirthmeticOperationsTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2cYGDFXr0ew2V67QcFWIsfBiFdP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.E1BooleanPrinterTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Syntax/IdeaProjects/SDETB19JavaHomeWorks/src/test/java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Syntax\IdeaProjects\SDETB19JavaHomeWorks\src\test\java" />
+      <recent name="C:\Users\Syntax\IdeaProjects\SDETB19JavaHomeWorks\src\main\java\org\example" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="E1BooleanPrinterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SDETB19JavaHomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e1booleanprintertest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="e1booleanprintertest" />
+      <option name="MAIN_CLASS_NAME" value="e1booleanprintertest.E1BooleanPrinterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.E1BooleanPrinterTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bead955-2531-4033-bec1-d0faeb296db4" name="Changes" comment="" />
+      <created>1708280977036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708280977036</updated>
+    </task>
+    <servers />
+  </component>
+</project>
