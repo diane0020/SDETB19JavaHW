@@ -13,10 +13,10 @@ public class E10AirthmeticOperations {
         int product = num1 * num2;
         int quotient = num1 / num2;
 
-        System.out.print(sum);
-//        System.out.println(num1 - num2);
-//        System.out.println(product);
-//        System.out.print(quotient);
+        System.out.println(sum);
+        System.out.println(difference);
+        System.out.println(product);
+        System.out.println(quotient);
 
     }
 }
