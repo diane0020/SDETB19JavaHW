@@ -4,14 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bead955-2531-4033-bec1-d0faeb296db4" name="Changes" comment="">
+    <list default="true" id="7bead955-2531-4033-bec1-d0faeb296db4" name="Changes" comment="Done with the latest assignment. Tested and passed all the exercises so far.&#10;Current version is missing test script for e3 and e4.">
+      <change afterPath="$PROJECT_DIR$/src/test/java/e3creatingvariableandprintingtest/E3CreatingVariableAndPrintingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e4creatingvariablesandprintingtest/E4CreatingVariablesAndPrintingTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e9/E9AirthmeticOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e9/E9AirthmeticOperations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,14 +40,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.E10AirthmeticOperations.executor": "Run",
+    "Application.E11AirthmeticOperations.executor": "Run",
     "Application.E9AirthmeticOperations.executor": "Run",
+    "JUnit.E10AirthmeticOperationsTest.executor": "Run",
+    "JUnit.E11AirthmeticOperationsTest.executor": "Run",
     "JUnit.E1BooleanPrinterTest.executor": "Run",
+    "JUnit.E3CreatingVariableAndPrintingTest.executor": "Run",
+    "JUnit.E4CreatingVariablesAndPrintingTest.executor": "Run",
     "JUnit.E9AirthmeticOperationsTest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Syntax/IdeaProjects/SDETB19JavaHomeWorks/src/test/java"
+    "last_opened_file_path": "/Users/johnbangal/IdeaProjects/SDETB19JavaHW"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -48,13 +62,13 @@
       <recent name="C:\Users\Syntax\IdeaProjects\SDETB19JavaHomeWorks\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.E5CreatingVariablesAndPrintingTest">
-    <configuration name="E9AirthmeticOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.e9.E9AirthmeticOperations" />
+  <component name="RunManager" selected="JUnit.E4CreatingVariablesAndPrintingTest">
+    <configuration name="E11AirthmeticOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.e11.E11AirthmeticOperations" />
       <module name="SDETB19JavaHomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.e9.*" />
+          <option name="PATTERN" value="org.example.e11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,46 +76,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E1BooleanPrinterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="E10AirthmeticOperationsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SDETB19JavaHomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="e1booleanprintertest.*" />
+          <option name="PATTERN" value="e10airthmeticoperationstest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="e1booleanprintertest" />
-      <option name="MAIN_CLASS_NAME" value="e1booleanprintertest.E1BooleanPrinterTest" />
+      <option name="PACKAGE_NAME" value="e10airthmeticoperationstest" />
+      <option name="MAIN_CLASS_NAME" value="e10airthmeticoperationstest.E10AirthmeticOperationsTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E5CreatingVariablesAndPrintingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="E11AirthmeticOperationsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SDETB19JavaHomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="e5creatingvariablesandprintingtest.*" />
+          <option name="PATTERN" value="e11airthmeticoperationstest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="e5creatingvariablesandprintingtest" />
-      <option name="MAIN_CLASS_NAME" value="e5creatingvariablesandprintingtest.E5CreatingVariablesAndPrintingTest" />
+      <option name="PACKAGE_NAME" value="e11airthmeticoperationstest" />
+      <option name="MAIN_CLASS_NAME" value="e11airthmeticoperationstest.E11AirthmeticOperationsTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E9AirthmeticOperationsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="E3CreatingVariableAndPrintingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SDETB19JavaHomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="e9airthmeticoperationstest.*" />
+          <option name="PATTERN" value="e3creatingvariableandprintingtest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="e9airthmeticoperationstest" />
-      <option name="MAIN_CLASS_NAME" value="e9airthmeticoperationstest.E9AirthmeticOperationsTest" />
+      <option name="PACKAGE_NAME" value="e3creatingvariableandprintingtest" />
+      <option name="MAIN_CLASS_NAME" value="e3creatingvariableandprintingtest.E3CreatingVariableAndPrintingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E4CreatingVariablesAndPrintingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SDETB19JavaHomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e4creatingvariablesandprintingtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="e4creatingvariablesandprintingtest" />
+      <option name="MAIN_CLASS_NAME" value="e4creatingvariablesandprintingtest.E4CreatingVariablesAndPrintingTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -109,12 +138,20 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.E5CreatingVariablesAndPrintingTest" />
-        <item itemvalue="JUnit.E9AirthmeticOperationsTest" />
-        <item itemvalue="Application.E9AirthmeticOperations" />
-        <item itemvalue="JUnit.E1BooleanPrinterTest" />
+        <item itemvalue="JUnit.E4CreatingVariablesAndPrintingTest" />
+        <item itemvalue="JUnit.E3CreatingVariableAndPrintingTest" />
+        <item itemvalue="JUnit.E11AirthmeticOperationsTest" />
+        <item itemvalue="Application.E11AirthmeticOperations" />
+        <item itemvalue="JUnit.E10AirthmeticOperationsTest" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -125,6 +162,37 @@
       <option name="presentableId" value="Default" />
       <updated>1708280977036</updated>
     </task>
+    <task id="LOCAL-00001" summary="Done the homework until e9">
+      <option name="closed" value="true" />
+      <created>1708648136954</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708648136954</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Done until e10 and fix the test case for e10">
+      <option name="closed" value="true" />
+      <created>1708649089439</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708649089439</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Done with the latest assignment. Tested and passed all the exercises so far.&#10;Current version is missing test script for e3 and e4.">
+      <option name="closed" value="true" />
+      <created>1708658160908</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708658160908</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Done the homework until e9" />
+    <MESSAGE value="Done until e10 and fix the test case for e10" />
+    <MESSAGE value="Done with the latest assignment. Tested and passed all the exercises so far.&#10;Current version is missing test script for e3 and e4." />
+    <option name="LAST_COMMIT_MESSAGE" value="Done with the latest assignment. Tested and passed all the exercises so far.&#10;Current version is missing test script for e3 and e4." />
   </component>
 </project>

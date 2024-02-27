@@ -11,7 +11,7 @@ public class E11AirthmeticOperations {
        // Output: The perimeter of a rectangle with width __ and height __ is equals to __ and the area equals to __
 
         // Perimeter operation
-        perimeterRectangle = (widthRectangle * 2) + (heightRectangle * 2);
+        perimeterRectangle = 2 * (widthRectangle+heightRectangle);
 
         // Area of a rectangle
         areaRectangle = widthRectangle * heightRectangle;
