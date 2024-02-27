@@ -38,7 +38,7 @@ public class E5CreatingVariablesAndPrintingTest {
             String printedOutput = outputStream.toString().trim();
 
             // Define the expected output
-            String expectedOutput = "Chen\n5050";
+            String expectedOutput = "Chen 5050";
 
             // Compare the actual output with the expected output
             assertEquals(expectedOutput, printedOutput);
