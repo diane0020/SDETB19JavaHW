@@ -1,10 +1,8 @@
 package e20Test;
-
 import org.example.e20.E20ScannerClass;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.InputStream;
@@ -13,43 +11,33 @@ import java.io.PrintStream;
 import static org.junit.Assert.assertEquals;
 
 public class E20ScannerClassTest {
-    private InputStream originalSystemIn;
-    private ByteArrayOutputStream outputStream;
+    private final ByteArrayOutputStream outContent = new ByteArrayOutputStream();
+    private final PrintStream originalOut = System.out;
+    private final InputStream originalIn = System.in;
 
-
-    public void setUpInputOutput() {
-        originalSystemIn = System.in;
-        outputStream = new ByteArrayOutputStream();
-        System.setOut(new PrintStream(outputStream));
+    @Before
+    public void setUpStreams() {
+        System.setOut(new PrintStream(outContent));
+        System.setIn(originalIn);
     }
 
+    @After
+    public void restoreStreams() {
+        System.setOut(originalOut);
+        System.setIn(originalIn);
+    }
 
-    public void restoreSystemInAndOut() {
-        System.setIn(originalSystemIn);
-        System.setOut(System.out);
+    private void provideInput(String data) {
+        System.setIn(new ByteArrayInputStream(data.getBytes()));
     }
 
     @Test
-    public void testUserNameInput() {
-        setUpInputOutput();
-        setSystemIn("John\nDoe\n"); // Simulate user input of 'John' and 'Doe'
-        E20ScannerClass.main(new String[0]);
-        assertEquals("Please Enter First Name\nPlease Enter Last Name\nJohn Doe", getOutput().replace("\r\n", "\n"));
-        restoreSystemInAndOut();
+    public void testFullName() {
+        provideInput("John\nDoe\n");
+        E20ScannerClass.main(new String[]{});
+        String expectedOutput = "Please Enter First Name" + System.lineSeparator() +
+                "Please Enter Last Name" + System.lineSeparator() +
+                "John Doe" ;
+        assertEquals(expectedOutput, outContent.toString());
     }
-
-    private void setSystemIn(String input) {
-        System.setIn(new ByteArrayInputStream(input.getBytes()));
-    }
-
-    private String getOutput() {
-        return outputStream.toString();
-    }
-
-
-
-
-
-
 }
-
