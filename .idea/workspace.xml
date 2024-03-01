@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bead955-2531-4033-bec1-d0faeb296db4" name="Changes" comment="Did all the homework.&#10;E20 failed and was reported to technical support.&#10;The rest of the test passed.&#10;Didn't try to format the phone number in e22" />
+    <list default="true" id="7bead955-2531-4033-bec1-d0faeb296db4" name="Changes" comment="Fixed E20Scanner Test&#10;Homework is finished and passed all the test.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e20/E20ScannerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e20/E20ScannerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e11airthmeticoperationstest/E11AirthmeticOperationsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e11airthmeticoperationstest/E11AirthmeticOperationsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e12Test/E12AirthmeticOperationsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e12Test/E12AirthmeticOperationsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e13Test/E13AirthmeticOperationsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e13Test/E13AirthmeticOperationsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e14Test/E14AirthmeticOperationsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e14Test/E14AirthmeticOperationsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e15Test/E15AirthmeticOperationsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e15Test/E15AirthmeticOperationsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e16Test/E16AirthmeticOperationsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e16Test/E16AirthmeticOperationsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e17Test/E17AirthmeticOperationsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e17Test/E17AirthmeticOperationsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e18Test/E18TypeCastingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e18Test/E18TypeCastingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e19Test/E19TypeCastingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e19Test/E19TypeCastingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e5creatingvariablesandprintingtest/E5CreatingVariablesAndPrintingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e5creatingvariablesandprintingtest/E5CreatingVariablesAndPrintingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e7arraystest/E7ArraysTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e7stringconcatenationtest/E7StringConcatenationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e7stringconcatenationtest/E7StringConcatenationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e8stringconcatenationtest/E8StringConcatenationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e8stringconcatenationtest/E8StringConcatenationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e9airthmeticoperationstest/E9AirthmeticOperationsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e9airthmeticoperationstest/E9AirthmeticOperationsTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,51 +51,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.E10AirthmeticOperations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E11AirthmeticOperations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E12AirthmeticOperations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E13AirthmeticOperations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E14AirthmeticOperations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E18TypeCasting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E19TypeCasting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E20ScannerClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E21ScannerClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E22ScannerClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E9AirthmeticOperations.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E10AirthmeticOperationsTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E11AirthmeticOperationsTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E12AirthmeticOperationsTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E13AirthmeticOperationsTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E14AirthmeticOperationsTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E15AirthmeticOperationsTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E16AirthmeticOperationsTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E17AirthmeticOperationsTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E18TypeCastingTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E19TypeCastingTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E1BooleanPrinterTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E20ScannerClassTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E21ScannerClassTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E22ScannerClassTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E3CreatingVariableAndPrintingTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E4CreatingVariablesAndPrintingTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E9AirthmeticOperationsTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.RE22ScannerClassTest.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/johnbangal/IdeaProjects/SDETB19JavaHW&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.E10AirthmeticOperations.executor": "Run",
+    "Application.E11AirthmeticOperations.executor": "Run",
+    "Application.E12AirthmeticOperations.executor": "Run",
+    "Application.E13AirthmeticOperations.executor": "Run",
+    "Application.E14AirthmeticOperations.executor": "Run",
+    "Application.E18TypeCasting.executor": "Run",
+    "Application.E19TypeCasting.executor": "Run",
+    "Application.E20ScannerClass.executor": "Run",
+    "Application.E21ScannerClass.executor": "Run",
+    "Application.E22ScannerClass.executor": "Run",
+    "Application.E8StringConcatenation.executor": "Run",
+    "Application.E9AirthmeticOperations.executor": "Run",
+    "JUnit.E10AirthmeticOperationsTest.executor": "Run",
+    "JUnit.E11AirthmeticOperationsTest.executor": "Run",
+    "JUnit.E12AirthmeticOperationsTest.executor": "Run",
+    "JUnit.E13AirthmeticOperationsTest.executor": "Run",
+    "JUnit.E14AirthmeticOperationsTest.executor": "Run",
+    "JUnit.E15AirthmeticOperationsTest.executor": "Run",
+    "JUnit.E16AirthmeticOperationsTest.executor": "Run",
+    "JUnit.E17AirthmeticOperationsTest.executor": "Run",
+    "JUnit.E18TypeCastingTest.executor": "Run",
+    "JUnit.E19TypeCastingTest.executor": "Run",
+    "JUnit.E1BooleanPrinterTest.executor": "Run",
+    "JUnit.E20ScannerClassTest.executor": "Run",
+    "JUnit.E20ScannerClassTest.testMainMethod.executor": "Run",
+    "JUnit.E21ScannerClassTest.executor": "Run",
+    "JUnit.E22ScannerClassTest.executor": "Run",
+    "JUnit.E3CreatingVariableAndPrintingTest.executor": "Run",
+    "JUnit.E4CreatingVariablesAndPrintingTest.executor": "Run",
+    "JUnit.E9AirthmeticOperationsTest.executor": "Run",
+    "JUnit.RE22ScannerClassTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/johnbangal/IdeaProjects/SDETB19JavaHW"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Syntax\IdeaProjects\SDETB19JavaHomeWorks\src\test\java" />
       <recent name="C:\Users\Syntax\IdeaProjects\SDETB19JavaHomeWorks\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.E20ScannerClassTest">
+  <component name="RunManager" selected="Application.E8StringConcatenation">
     <configuration name="E20ScannerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.e20.E20ScannerClass" />
       <module name="SDETB19JavaHomeWorks" />
@@ -88,6 +107,34 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E8StringConcatenation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.e8.E8StringConcatenation" />
+      <module name="SDETB19JavaHomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.e8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E1BooleanPrinterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SDETB19JavaHomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e1booleanprintertest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="e1booleanprintertest" />
+      <option name="MAIN_CLASS_NAME" value="e1booleanprintertest.E1BooleanPrinterTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -123,43 +170,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E22ScannerClassTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SDETB19JavaHomeWorks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="e22Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="e22Test" />
-      <option name="MAIN_CLASS_NAME" value="e22Test.E22ScannerClassTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RE22ScannerClassTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SDETB19JavaHomeWorks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="e22Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="e22Test" />
-      <option name="MAIN_CLASS_NAME" value="e22Test.RE22ScannerClassTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.E8StringConcatenation" />
+        <item itemvalue="JUnit.E1BooleanPrinterTest" />
         <item itemvalue="JUnit.E20ScannerClassTest" />
         <item itemvalue="Application.E20ScannerClass" />
         <item itemvalue="JUnit.E20ScannerClassTest.testMainMethod" />
-        <item itemvalue="JUnit.E22ScannerClassTest" />
-        <item itemvalue="JUnit.RE22ScannerClassTest" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709028751146</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Fixed E20Scanner Test&#10;Homework is finished and passed all the test.">
+      <option name="closed" value="true" />
+      <created>1709078741221</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709078741221</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -228,14 +253,15 @@
     <MESSAGE value="Done with the latest assignment. Tested and passed all the exercises so far.&#10;Current version is missing test script for e3 and e4." />
     <MESSAGE value="Updated" />
     <MESSAGE value="Did all the homework.&#10;E20 failed and was reported to technical support.&#10;The rest of the test passed.&#10;Didn't try to format the phone number in e22" />
-    <option name="LAST_COMMIT_MESSAGE" value="Did all the homework.&#10;E20 failed and was reported to technical support.&#10;The rest of the test passed.&#10;Didn't try to format the phone number in e22" />
+    <MESSAGE value="Fixed E20Scanner Test&#10;Homework is finished and passed all the test." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed E20Scanner Test&#10;Homework is finished and passed all the test." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/e14/E14AirthmeticOperations.java</url>
-          <line>12</line>
+          <line>21</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
