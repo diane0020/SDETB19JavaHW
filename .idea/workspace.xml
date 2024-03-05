@@ -243,7 +243,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709253028584</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Fixed E20Scanner Test&#10;Homework is finished and passed all the test.">
+      <option name="closed" value="true" />
+      <created>1709262514893</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709262514893</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
