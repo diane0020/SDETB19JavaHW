@@ -1,14 +1,11 @@
 package e75arraystest;
+import static org.junit.Assert.*;
 
 import org.example.e75.E75Arrays;
-import org.junit.After;
-import org.junit.Before;
-import org.junit.Test;
+import org.junit.*;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
-
-import static org.junit.Assert.assertEquals;
 
 public class E75ArraysTest {
 
@@ -28,7 +25,7 @@ public class E75ArraysTest {
     @Test
     public void testExtractedValues() {
         E75Arrays.main(new String[]{});
-        String expectedOutput = "78 55 77 " + System.lineSeparator();
+        String expectedOutput = "78 55 77 ";
 
         String failureMessage = "The output does not match the expected values.\n" +
                 "Please ensure that your program prints '78 55 77 ' in one line.\n" +

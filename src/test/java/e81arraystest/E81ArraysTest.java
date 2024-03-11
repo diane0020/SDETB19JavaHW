@@ -1,14 +1,11 @@
 package e81arraystest;
+import static org.junit.Assert.*;
 
 import org.example.e81.E81Arrays;
-import org.junit.After;
-import org.junit.Before;
-import org.junit.Test;
+import org.junit.*;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
-
-import static org.junit.Assert.assertEquals;
 
 public class E81ArraysTest{
 
@@ -30,7 +27,7 @@ public class E81ArraysTest{
         int[] inputArray = {5, 4, 8};
         E81Arrays.main(inputArray); // Replace with your actual method call
 
-        String expectedOutput = "8" + System.lineSeparator();
+        String expectedOutput = "8";
         String failureMessage = "The output does not match the expected value.\n" +
                 "Please ensure that your program correctly finds and prints the highest value in the array.\n";
 

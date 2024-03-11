@@ -1,14 +1,11 @@
 package e79arraystest;
+import static org.junit.Assert.*;
 
 import org.example.e79.E79Arrays;
-import org.junit.After;
-import org.junit.Before;
-import org.junit.Test;
+import org.junit.*;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
-
-import static org.junit.Assert.assertEquals;
 
 public class E79ArraysTest{
 

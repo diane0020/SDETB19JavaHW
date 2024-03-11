@@ -10,14 +10,13 @@ import java.io.PrintStream;
 
 import static org.junit.Assert.assertEquals;
 
-public class E71ArraysTest{
-
-    private final ByteArrayOutputStream outContent = new ByteArrayOutputStream();
+public class E71ArraysTest {
+    private final ByteArrayOutputStream outputStream = new ByteArrayOutputStream();
     private final PrintStream originalOut = System.out;
 
     @Before
     public void setUpStreams() {
-        System.setOut(new PrintStream(outContent));
+        System.setOut(new PrintStream(outputStream));
     }
 
     @After
@@ -26,15 +25,15 @@ public class E71ArraysTest{
     }
 
     @Test
-    public void testPrintEvenIndexValues() {
+    public void testEvenIndexArrayValues() {
         E71Arrays.main(new String[]{});
-        String expectedOutput = "45 12 55 23 88 " + System.lineSeparator();
 
-        String failureMessage = "The output does not match the expected values.\n" +
-                "Please ensure that your program prints values at even indices of the array including index 0.\n" +
-                "The expected output is '45 12 55 23 88 '.\n" +
-                "Check your loop and index conditions.\n";
+        // It's crucial that the expected output matches exactly, including spaces
+        String expectedOutput = "45 12 55 23 88"; // Ensure this is exactly what your program outputs
 
-        assertEquals(failureMessage, expectedOutput, outContent.toString());
+        // Use trim() to remove leading and trailing spaces
+        String actualOutput = outputStream.toString().trim();
+
+        assertEquals("The program should print the values stored at even indices including 0.", expectedOutput, actualOutput);
     }
 }

@@ -1,14 +1,11 @@
 package e74arraystest;
+import static org.junit.Assert.*;
 
 import org.example.e74.E74Arrays;
-import org.junit.After;
-import org.junit.Before;
-import org.junit.Test;
+import org.junit.*;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
-
-import static org.junit.Assert.assertEquals;
 
 public class E74ArraysTest{
 

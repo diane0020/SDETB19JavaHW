@@ -1,19 +1,23 @@
 package e78arraystest;
 
+
 import org.example.e78.E78Arrays;
+
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-
+import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
+import java.io.InputStream;
 import java.io.PrintStream;
 
 import static org.junit.Assert.assertEquals;
 
-public class E78ArraysTest{
+public class E78ArraysTest {
 
     private final ByteArrayOutputStream outContent = new ByteArrayOutputStream();
     private final PrintStream originalOut = System.out;
+    private final InputStream originalIn = System.in;
 
     @Before
     public void setUpStreams() {
@@ -23,22 +27,28 @@ public class E78ArraysTest{
     @After
     public void restoreStreams() {
         System.setOut(originalOut);
+        System.setIn(originalIn);
+    }
+
+    private void provideInput(String data) {
+        System.setIn(new ByteArrayInputStream(data.getBytes()));
     }
 
     @Test
-    public void testPrintMultipliedArray() {
-        int[] inputArray = {1, 2, 3, 4, 5};
-        E78Arrays.main(inputArray);
+    public void testMultipliedOutput() {
+        // Providing input values: 1, 2, 3, 4, 5
+        provideInput("1\n2\n3\n4\n5\n");
 
-        StringBuilder expectedOutputBuilder = new StringBuilder();
-        for (int value : inputArray) {
-            expectedOutputBuilder.append(value * 10).append(System.lineSeparator());
-        }
-        String expectedOutput = expectedOutputBuilder.toString();
+        E78Arrays.main(new String[]{});
 
-        String failureMessage = "The output does not match the expected values.\n" +
-                "Please ensure that your program prints each element of the array multiplied by 10.\n";
+        // Building the expected output string
+        String expectedOutput = "10" + System.lineSeparator() +
+                "20" + System.lineSeparator() +
+                "30" + System.lineSeparator() +
+                "40" + System.lineSeparator() +
+                "50" + System.lineSeparator();
 
-        assertEquals(failureMessage, expectedOutput, outContent.toString());
+        // Assert that the actual output matches the expected output
+        assertEquals(expectedOutput, outContent.toString());
     }
 }

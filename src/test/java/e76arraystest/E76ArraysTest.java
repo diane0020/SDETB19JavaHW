@@ -4,16 +4,23 @@ import org.example.e76.E76Arrays;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-
+import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
+import java.io.InputStream;
 import java.io.PrintStream;
 
 import static org.junit.Assert.assertEquals;
 
-public class E76ArraysTest{
+
+
+// ... [rest of the imports]
+
+public class E76ArraysTest {
+    // ... [rest of the test fields]
 
     private final ByteArrayOutputStream outContent = new ByteArrayOutputStream();
     private final PrintStream originalOut = System.out;
+    private final InputStream originalIn = System.in;
 
     @Before
     public void setUpStreams() {
@@ -23,29 +30,47 @@ public class E76ArraysTest{
     @After
     public void restoreStreams() {
         System.setOut(originalOut);
+        System.setIn(originalIn);
+    }
+
+    private void provideInput(String data) {
+        System.setIn(new ByteArrayInputStream(data.getBytes()));
     }
 
     @Test
-    public void testPrintWeekDays() {
-        String[] days = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
-        E76Arrays.main(days);
+    public void testDaysOfTheWeekInput() {
+        String input = String.join(System.lineSeparator(),
+                "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday");
+        provideInput(input);
 
-        StringBuilder expectedOutputBuilder = new StringBuilder();
-        for (int i = 0; i < days.length; i++) {
-            expectedOutputBuilder.append("Please enter day ").append(i + 1).append(" of the week")
-                    .append(System.lineSeparator())
-                    .append(days[i])
-                    .append(System.lineSeparator());
+        E76Arrays.main(new String[]{});
+
+        String[] lines = outContent.toString().trim().split(System.lineSeparator());
+        String[] expectedPrompts = {
+                "Please enter day 1 of the week",
+                "Please enter day 2 of the week",
+                "Please enter day 3 of the week",
+                "Please enter day 4 of the week",
+                "Please enter day 5 of the week",
+                "Please enter day 6 of the week",
+                "Please enter day 7 of the week"
+        };
+
+        // Starting index of prompts in the output lines, in case there is a header or other lines before.
+        int startIndexOfPrompts = 0; // Adjust this if there are extra lines before the prompts start.
+
+        // Validate prompts
+        for (int i = 0; i < expectedPrompts.length; i++) {
+            assertEquals("Prompt for day " + (i + 1) + " did not match expected output.",
+                    expectedPrompts[i],
+                    lines[startIndexOfPrompts + i * 2]);
         }
-        for (String day : days) {
-            expectedOutputBuilder.append(day).append(System.lineSeparator());
+
+        // Validate days printed
+        for (int i = 0; i < 7; i++) {
+            assertEquals("Day " + (i + 1) + " output did not match expected.",
+                    input.split(System.lineSeparator())[i],
+                    lines[startIndexOfPrompts + i * 2 + 1]);
         }
-
-        String expectedOutput = expectedOutputBuilder.toString();
-
-        String failureMessage = "The output does not match the expected values.\n" +
-                "Please ensure that your program prints the prompts and then the days of the week in order.\n";
-
-        assertEquals(failureMessage, expectedOutput, outContent.toString());
     }
 }

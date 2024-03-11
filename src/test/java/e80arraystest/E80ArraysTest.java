@@ -1,14 +1,11 @@
 package e80arraystest;
+import static org.junit.Assert.*;
 
 import org.example.e80.E80Arrays;
-import org.junit.After;
-import org.junit.Before;
-import org.junit.Test;
+import org.junit.*;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
-
-import static org.junit.Assert.assertEquals;
 
 public class E80ArraysTest{
 
@@ -42,6 +39,6 @@ public class E80ArraysTest{
         String failureMessage = "The output does not match the expected values.\n" +
                 "Please ensure that your program correctly doubles each element of the 2D array and prints it.\n";
 
-        assertEquals(failureMessage, expectedOutput, outContent.toString().trim());
+        assertEquals(failureMessage, expectedOutput, outContent.toString());
     }
 }
