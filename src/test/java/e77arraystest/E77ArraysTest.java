@@ -1,22 +1,16 @@
 package e77arraystest;
+import static org.junit.Assert.*;
 
 import org.example.e77.E77Arrays;
+import org.junit.*;
 
-import org.junit.After;
-import org.junit.Before;
-import org.junit.Test;
-import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
-import java.io.InputStream;
 import java.io.PrintStream;
-
-import static org.junit.Assert.assertEquals;
 
 public class E77ArraysTest {
 
     private final ByteArrayOutputStream outContent = new ByteArrayOutputStream();
     private final PrintStream originalOut = System.out;
-    private final InputStream originalIn = System.in;
 
     @Before
     public void setUpStreams() {
@@ -26,28 +20,17 @@ public class E77ArraysTest {
     @After
     public void restoreStreams() {
         System.setOut(originalOut);
-        System.setIn(originalIn);
-    }
-
-    private void provideInput(String data) {
-        System.setIn(new ByteArrayInputStream(data.getBytes()));
     }
 
     @Test
-    public void testReverseOrderOutput() {
-        // Provide the input numbers 1, 2, 3, 4, 5
-        provideInput("1\n2\n3\n4\n5\n");
+    public void testPrintHighestValue() {
+        int[] inputArray = {5, 4, 8};
+        E77Arrays.main(inputArray); // Replace with your actual method call
 
-        E77Arrays.main(new String[]{});
+        String expectedOutput = "8";
+        String failureMessage = "The output does not match the expected value.\n" +
+                "Please ensure that your program correctly finds and prints the highest value in the array.\n";
 
-        // Build the expected output
-        String expectedOutput = "5" + System.lineSeparator() +
-                "4" + System.lineSeparator() +
-                "3" + System.lineSeparator() +
-                "2" + System.lineSeparator() +
-                "1" + System.lineSeparator();
-
-        // Assert that the actual output matches the expected output
-        assertEquals(expectedOutput, outContent.toString());
+        assertEquals(failureMessage, expectedOutput, outContent.toString());
     }
 }
