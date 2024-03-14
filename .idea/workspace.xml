@@ -4,39 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bead955-2531-4033-bec1-d0faeb296db4" name="Changes" comment="Did and passed homework 24-40">
+    <list default="true" id="7bead955-2531-4033-bec1-d0faeb296db4" name="Changes" comment="update e66">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e51/E51DoWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e51/E51DoWhileLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e52/E52DoWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e52/E52DoWhileLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e53/E53DoWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e53/E53DoWhileLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e54/E54ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e54/E54ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e55/E55ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e55/E55ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e56/E56ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e56/E56ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e57/E57ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e57/E57ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e58/E58ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e58/E58ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e59/E59ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e59/E59ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e60/E60ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e60/E60ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e61/E61ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e61/E61ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e62/E62ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e62/E62ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e63/E63ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e63/E63ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e64/E64ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e64/E64ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e65/E65ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e65/E65ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e66/E66Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e66/E66Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e67/E67Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e67/E67Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e68/E68Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e68/E68Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e69/E69Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e69/E69Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e70/E70Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e70/E70Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e71/E71Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e71/E71Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e72/E72Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e72/E72Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e73/E73Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e73/E73Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e74/E74Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e74/E74Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e75/E75Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e75/E75Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e76/E76Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e76/E76Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e77/E77Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e77/E77Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e78/E78Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e78/E78Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e79/E79Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e79/E79Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e80/E80Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e80/E80Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/e64Test/E64ForLoopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e64Test/E64ForLoopTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e81/E81Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e81/E81Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e82/E82NestedForLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e82/E82NestedForLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e83/E83NestedForLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e83/E83NestedForLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e84/E84NestedForLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e84/E84NestedForLoops.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +63,10 @@
     "Application.E78Arrays.executor": "Run",
     "Application.E79Arrays.executor": "Run",
     "Application.E80Arrays.executor": "Run",
+    "Application.E81Arrays.executor": "Run",
+    "Application.E82NestedForLoops.executor": "Run",
+    "Application.E83NestedForLoops.executor": "Run",
+    "Application.E84NestedForLoops.executor": "Run",
     "Application.E9AirthmeticOperations.executor": "Run",
     "JUnit.E10AirthmeticOperationsTest.executor": "Run",
     "JUnit.E1BooleanPrinterTest.executor": "Run",
@@ -122,6 +99,10 @@
     "JUnit.E77ArraysTest.executor": "Run",
     "JUnit.E78ArraysTest.executor": "Run",
     "JUnit.E79ArraysTest.executor": "Run",
+    "JUnit.E80ArraysTest.executor": "Run",
+    "JUnit.E81ArraysTest.executor": "Run",
+    "JUnit.E82NestedForLoopsTest.executor": "Run",
+    "JUnit.E83NestedForLoopsTest.executor": "Run",
     "JUnit.E9AirthmeticOperationsTest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -137,13 +118,13 @@
       <recent name="C:\Users\Syntax\IdeaProjects\SDETB19JavaHomeWorks\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.E66ArrayTest">
-    <configuration name="E79Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.e79.E79Arrays" />
+  <component name="RunManager" selected="Application.E84NestedForLoops">
+    <configuration name="E82NestedForLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.e82.E82NestedForLoops" />
       <module name="SDETB19JavaHomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.e79.*" />
+          <option name="PATTERN" value="org.example.e82.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E80Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.e80.E80Arrays" />
+    <configuration name="E83NestedForLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.e83.E83NestedForLoops" />
       <module name="SDETB19JavaHomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.e80.*" />
+          <option name="PATTERN" value="org.example.e83.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,46 +145,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E66ArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="E84NestedForLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.e84.E84NestedForLoops" />
       <module name="SDETB19JavaHomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="e66arraytest.*" />
+          <option name="PATTERN" value="org.example.e84.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="e66arraytest" />
-      <option name="MAIN_CLASS_NAME" value="e66arraytest.E66ArrayTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E82NestedForLoopsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SDETB19JavaHomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e82NestedForLoopTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="e82NestedForLoopTest" />
+      <option name="MAIN_CLASS_NAME" value="e82NestedForLoopTest.E82NestedForLoopsTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E79ArraysTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="E83NestedForLoopsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SDETB19JavaHomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="e79arraystest.*" />
+          <option name="PATTERN" value="e83NestedForLoopTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="e79arraystest" />
-      <option name="MAIN_CLASS_NAME" value="e79arraystest.E79ArraysTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E80ArraysTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SDETB19JavaHomeWorks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="e80arraystest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="e80arraystest" />
-      <option name="MAIN_CLASS_NAME" value="e80arraystest.E80ArraysTest" />
+      <option name="PACKAGE_NAME" value="e83NestedForLoopTest" />
+      <option name="MAIN_CLASS_NAME" value="e83NestedForLoopTest.E83NestedForLoopsTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -211,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.E66ArrayTest" />
-        <item itemvalue="JUnit.E80ArraysTest" />
-        <item itemvalue="Application.E80Arrays" />
-        <item itemvalue="JUnit.E79ArraysTest" />
-        <item itemvalue="Application.E79Arrays" />
+        <item itemvalue="Application.E84NestedForLoops" />
+        <item itemvalue="JUnit.E83NestedForLoopsTest" />
+        <item itemvalue="Application.E83NestedForLoops" />
+        <item itemvalue="JUnit.E82NestedForLoopsTest" />
+        <item itemvalue="Application.E82NestedForLoops" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +222,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709496959993</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finished hw until e80. e72 does not pass the test">
+      <option name="closed" value="true" />
+      <created>1710426699055</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710426699055</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update e66">
+      <option name="closed" value="true" />
+      <created>1710426797535</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710426797535</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -259,7 +254,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first 50 Exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="first 50 Exercises" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/main/java/org/example/e35/E35LogicalOperators.java" />
+    <MESSAGE value="Did and passed homework 24-40" />
+    <MESSAGE value="finished hw until e80. e72 does not pass the test" />
+    <MESSAGE value="update e66" />
+    <option name="LAST_COMMIT_MESSAGE" value="update e66" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -283,6 +282,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/e70/E70Arrays.java</url>
           <line>9</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/e81/E81Arrays.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
