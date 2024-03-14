@@ -137,7 +137,7 @@
       <recent name="C:\Users\Syntax\IdeaProjects\SDETB19JavaHomeWorks\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.E80ArraysTest">
+  <component name="RunManager" selected="JUnit.E66ArrayTest">
     <configuration name="E79Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.e79.E79Arrays" />
       <module name="SDETB19JavaHomeWorks" />
@@ -164,16 +164,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E78ArraysTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="E66ArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SDETB19JavaHomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="e78arraystest.*" />
+          <option name="PATTERN" value="e66arraytest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="e78arraystest" />
-      <option name="MAIN_CLASS_NAME" value="e78arraystest.E78ArraysTest" />
+      <option name="PACKAGE_NAME" value="e66arraytest" />
+      <option name="MAIN_CLASS_NAME" value="e66arraytest.E66ArrayTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -211,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.E66ArrayTest" />
         <item itemvalue="JUnit.E80ArraysTest" />
         <item itemvalue="Application.E80Arrays" />
         <item itemvalue="JUnit.E79ArraysTest" />
         <item itemvalue="Application.E79Arrays" />
-        <item itemvalue="JUnit.E78ArraysTest" />
       </list>
     </recent_temporary>
   </component>
