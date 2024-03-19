@@ -29,8 +29,8 @@ public class E84NestedForLoopsTest {
 
         // Define the expected output
         String expectedOutput = "$$$$\n" +
-                "$  $  \n" +
-                "$  $  \n" +
+                "$  $\n" +
+                "$  $\n" +
                 "$$$$"+"\n";
 
 

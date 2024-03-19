@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bead955-2531-4033-bec1-d0faeb296db4" name="Changes" comment="update e66">
+    <list default="true" id="7bead955-2531-4033-bec1-d0faeb296db4" name="Changes" comment="did hw up to e83. passed all the test except for e72">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e81/E81Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e81/E81Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e82/E82NestedForLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e82/E82NestedForLoops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e83/E83NestedForLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e83/E83NestedForLoops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e84/E84NestedForLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e84/E84NestedForLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e85/E85NestedForLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e85/E85NestedForLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e84NestedForLoopTest/E84NestedForLoopsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e84NestedForLoopTest/E84NestedForLoopsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +66,7 @@
     "Application.E82NestedForLoops.executor": "Run",
     "Application.E83NestedForLoops.executor": "Run",
     "Application.E84NestedForLoops.executor": "Run",
+    "Application.E85NestedForLoops.executor": "Debug",
     "Application.E9AirthmeticOperations.executor": "Run",
     "JUnit.E10AirthmeticOperationsTest.executor": "Run",
     "JUnit.E1BooleanPrinterTest.executor": "Run",
@@ -103,6 +103,9 @@
     "JUnit.E81ArraysTest.executor": "Run",
     "JUnit.E82NestedForLoopsTest.executor": "Run",
     "JUnit.E83NestedForLoopsTest.executor": "Run",
+    "JUnit.E84NestedForLoopsTest.executor": "Run",
+    "JUnit.E84NestedForLoopsTest.testPatternPrinting.executor": "Run",
+    "JUnit.E85NestedForLoopsTest.executor": "Run",
     "JUnit.E9AirthmeticOperationsTest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -118,33 +121,7 @@
       <recent name="C:\Users\Syntax\IdeaProjects\SDETB19JavaHomeWorks\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.E84NestedForLoops">
-    <configuration name="E82NestedForLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.e82.E82NestedForLoops" />
-      <module name="SDETB19JavaHomeWorks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.e82.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E83NestedForLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.e83.E83NestedForLoops" />
-      <module name="SDETB19JavaHomeWorks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.e83.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.E72ArraysTest">
     <configuration name="E84NestedForLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.e84.E84NestedForLoops" />
       <module name="SDETB19JavaHomeWorks" />
@@ -158,31 +135,62 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E82NestedForLoopsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="E72ArraysTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SDETB19JavaHomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="e82NestedForLoopTest.*" />
+          <option name="PATTERN" value="e72arraystest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="e82NestedForLoopTest" />
-      <option name="MAIN_CLASS_NAME" value="e82NestedForLoopTest.E82NestedForLoopsTest" />
+      <option name="PACKAGE_NAME" value="e72arraystest" />
+      <option name="MAIN_CLASS_NAME" value="e72arraystest.E72ArraysTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E83NestedForLoopsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="E84NestedForLoopsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SDETB19JavaHomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="e83NestedForLoopTest.*" />
+          <option name="PATTERN" value="e84NestedForLoopTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="e83NestedForLoopTest" />
-      <option name="MAIN_CLASS_NAME" value="e83NestedForLoopTest.E83NestedForLoopsTest" />
+      <option name="PACKAGE_NAME" value="e84NestedForLoopTest" />
+      <option name="MAIN_CLASS_NAME" value="e84NestedForLoopTest.E84NestedForLoopsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E84NestedForLoopsTest.testPatternPrinting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SDETB19JavaHomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e84NestedForLoopTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="e84NestedForLoopTest" />
+      <option name="MAIN_CLASS_NAME" value="e84NestedForLoopTest.E84NestedForLoopsTest" />
+      <option name="METHOD_NAME" value="testPatternPrinting" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E85NestedForLoopsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SDETB19JavaHomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e85NestedForLoopTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="e85NestedForLoopTest" />
+      <option name="MAIN_CLASS_NAME" value="e85NestedForLoopTest.E85NestedForLoopsTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -190,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.E72ArraysTest" />
+        <item itemvalue="JUnit.E84NestedForLoopsTest" />
         <item itemvalue="Application.E84NestedForLoops" />
-        <item itemvalue="JUnit.E83NestedForLoopsTest" />
-        <item itemvalue="Application.E83NestedForLoops" />
-        <item itemvalue="JUnit.E82NestedForLoopsTest" />
-        <item itemvalue="Application.E82NestedForLoops" />
+        <item itemvalue="JUnit.E84NestedForLoopsTest.testPatternPrinting" />
+        <item itemvalue="JUnit.E85NestedForLoopsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710426797535</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="did hw up to e83. passed all the test except for e72">
+      <option name="closed" value="true" />
+      <created>1710429375109</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710429375109</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -258,7 +274,8 @@
     <MESSAGE value="Did and passed homework 24-40" />
     <MESSAGE value="finished hw until e80. e72 does not pass the test" />
     <MESSAGE value="update e66" />
-    <option name="LAST_COMMIT_MESSAGE" value="update e66" />
+    <MESSAGE value="did hw up to e83. passed all the test except for e72" />
+    <option name="LAST_COMMIT_MESSAGE" value="did hw up to e83. passed all the test except for e72" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -284,9 +301,9 @@
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/e81/E81Arrays.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="17" />
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/e85/E85NestedForLoops.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
