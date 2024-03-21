@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bead955-2531-4033-bec1-d0faeb296db4" name="Changes" comment="did hw up to e83. passed all the test except for e72">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e84/E84NestedForLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e84/E84NestedForLoops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e85/E85NestedForLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e85/E85NestedForLoops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/e84NestedForLoopTest/E84NestedForLoopsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e84NestedForLoopTest/E84NestedForLoopsTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="7bead955-2531-4033-bec1-d0faeb296db4" name="Changes" comment="done with all the hw and passed all the test." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -254,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710429375109</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="done with all the hw and passed all the test.">
+      <option name="closed" value="true" />
+      <created>1710807430454</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710807430454</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -275,7 +278,8 @@
     <MESSAGE value="finished hw until e80. e72 does not pass the test" />
     <MESSAGE value="update e66" />
     <MESSAGE value="did hw up to e83. passed all the test except for e72" />
-    <option name="LAST_COMMIT_MESSAGE" value="did hw up to e83. passed all the test except for e72" />
+    <MESSAGE value="done with all the hw and passed all the test." />
+    <option name="LAST_COMMIT_MESSAGE" value="done with all the hw and passed all the test." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
