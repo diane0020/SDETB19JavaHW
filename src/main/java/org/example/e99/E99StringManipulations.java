@@ -5,12 +5,10 @@ import java.util.Scanner;
 public class E99StringManipulations {
     public static void main(String[] args) {
 
-        String str = "aba";
-        String reversed = "";
+        ReverseString string = new ReverseString();
 
-        for (int i = (str.length()-1); i >= 0; i--) {
-            reversed = reversed + str.charAt(i);
-        }
+        String str = "aba";
+        String reversed = string.reverse(str);
 
         if (str.equalsIgnoreCase(reversed)){
             System.out.println("In:true");

@@ -1,5 +1,7 @@
 package org.example.e100;
 
+import org.example.e99.ReverseString;
+
 import java.util.Scanner;
 
 public class E100StringManipulations {
@@ -8,12 +10,8 @@ public class E100StringManipulations {
         Scanner scanner = new Scanner(System.in);
         String in = scanner.nextLine();
 
-        String reversed = "";
-
-        for (int i = (in.length()-1); i >= 0; i--) {
-            reversed = reversed + in.charAt(i);
-        }
-
+        ReverseString string = new ReverseString();
+        String reversed = string.reverse(in);
         System.out.println("In:" + reversed);
 
 
