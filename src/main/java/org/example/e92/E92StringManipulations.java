@@ -21,7 +21,7 @@ public class E92StringManipulations {
             }
 
         }
-
+/*
         for (int i = 0; i < s1.length(); i++) {
             if (!(i == (s1.length()-1))) {
                 continue;
@@ -33,6 +33,14 @@ public class E92StringManipulations {
                 validateEnd = false;
                 System.out.println(validateEnd);
             }
+        }*/
+
+        if (s1.endsWith("u")){
+            validateEnd = true;
+            System.out.println(validateEnd);
+        } else {
+            validateEnd = false;
+            System.out.println(validateEnd);
         }
 
     }

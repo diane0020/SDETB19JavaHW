@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bead955-2531-4033-bec1-d0faeb296db4" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e99/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_25_24,_6_57 pm_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_25_24,_7_27 pm_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_25_24__6_57pm__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_25_24__7_27pm__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e100/E100StringManipulations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e100/E100StringManipulations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e99/E99StringManipulations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e99/E99StringManipulations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e92/E92StringManipulations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e92/E92StringManipulations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,92 +41,95 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.E100StringManipulations.executor": "Run",
-    "Application.E1BooleanPrinter.executor": "Run",
-    "Application.E51DoWhileLoop.executor": "Debug",
-    "Application.E52DoWhileLoop.executor": "Run",
-    "Application.E53DoWhileLoop.executor": "Run",
-    "Application.E54ForLoop.executor": "Run",
-    "Application.E55ForLoop.executor": "Run",
-    "Application.E56ForLoop.executor": "Run",
-    "Application.E57ForLoop.executor": "Run",
-    "Application.E58ForLoop.executor": "Debug",
-    "Application.E59ForLoop.executor": "Run",
-    "Application.E60ForLoop.executor": "Run",
-    "Application.E61ForLoop.executor": "Run",
-    "Application.E62ForLoop.executor": "Run",
-    "Application.E63ForLoop.executor": "Run",
-    "Application.E64ForLoop.executor": "Run",
-    "Application.E65ForLoop.executor": "Run",
-    "Application.E66Array.executor": "Run",
-    "Application.E67Arrays.executor": "Run",
-    "Application.E68Arrays.executor": "Run",
-    "Application.E69Arrays.executor": "Run",
-    "Application.E70Arrays.executor": "Run",
-    "Application.E71Arrays.executor": "Run",
-    "Application.E72Arrays.executor": "Run",
-    "Application.E73Arrays.executor": "Run",
-    "Application.E74Arrays.executor": "Run",
-    "Application.E76Arrays.executor": "Run",
-    "Application.E78Arrays.executor": "Run",
-    "Application.E79Arrays.executor": "Run",
-    "Application.E80Arrays.executor": "Run",
-    "Application.E81Arrays.executor": "Run",
-    "Application.E82NestedForLoops.executor": "Run",
-    "Application.E83NestedForLoops.executor": "Run",
-    "Application.E84NestedForLoops.executor": "Run",
-    "Application.E85NestedForLoops.executor": "Debug",
-    "Application.E99StringManipulations.executor": "Run",
-    "Application.E9AirthmeticOperations.executor": "Run",
-    "JUnit.E10AirthmeticOperationsTest.executor": "Run",
-    "JUnit.E1BooleanPrinterTest.executor": "Run",
-    "JUnit.E49WhileLoopTest.executor": "Run",
-    "JUnit.E51DoWhileLoopTest.executor": "Run",
-    "JUnit.E52DoWhileLoopTest.executor": "Run",
-    "JUnit.E53DoWhileLoopTest.executor": "Run",
-    "JUnit.E54ForLoopTest.executor": "Run",
-    "JUnit.E55ForLoopTest.executor": "Run",
-    "JUnit.E56ForLoopTest.executor": "Run",
-    "JUnit.E57ForLoopTest.executor": "Run",
-    "JUnit.E58ForLoopTest.executor": "Run",
-    "JUnit.E59ForLoopTest.executor": "Run",
-    "JUnit.E60ForLoopTest.executor": "Run",
-    "JUnit.E61ForLoopTest.executor": "Run",
-    "JUnit.E62ForLoopTest.executor": "Run",
-    "JUnit.E63ForLoopTest.executor": "Run",
-    "JUnit.E64ForLoopTest.executor": "Run",
-    "JUnit.E65ForLoopTest.executor": "Run",
-    "JUnit.E66ArrayTest.executor": "Run",
-    "JUnit.E67ArraysTest.executor": "Run",
-    "JUnit.E68ArraysTest.executor": "Run",
-    "JUnit.E69ArraysTest.executor": "Run",
-    "JUnit.E71ArraysTest.executor": "Run",
-    "JUnit.E72ArraysTest.executor": "Run",
-    "JUnit.E73ArraysTest.executor": "Run",
-    "JUnit.E74ArraysTest.executor": "Run",
-    "JUnit.E75ArraysTest.executor": "Run",
-    "JUnit.E76ArraysTest.executor": "Run",
-    "JUnit.E77ArraysTest.executor": "Run",
-    "JUnit.E78ArraysTest.executor": "Run",
-    "JUnit.E79ArraysTest.executor": "Run",
-    "JUnit.E80ArraysTest.executor": "Run",
-    "JUnit.E81ArraysTest.executor": "Run",
-    "JUnit.E82NestedForLoopsTest.executor": "Run",
-    "JUnit.E83NestedForLoopsTest.executor": "Run",
-    "JUnit.E84NestedForLoopsTest.executor": "Run",
-    "JUnit.E84NestedForLoopsTest.testPatternPrinting.executor": "Run",
-    "JUnit.E85NestedForLoopsTest.executor": "Run",
-    "JUnit.E9AirthmeticOperationsTest.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/johnbangal/IdeaProjects/SDETB19JavaHW/src/test/java",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.E100StringManipulations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E1BooleanPrinter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E51DoWhileLoop.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.E52DoWhileLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E53DoWhileLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E54ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E55ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E56ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E57ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E58ForLoop.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.E59ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E60ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E61ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E62ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E63ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E64ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E65ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E66Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E67Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E68Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E69Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E70Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E71Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E72Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E73Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E74Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E76Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E78Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E79Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E80Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E81Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E82NestedForLoops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E83NestedForLoops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E84NestedForLoops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E85NestedForLoops.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.E92StringManipulations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E99StringManipulations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E9AirthmeticOperations.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E100StringManipulationsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E10AirthmeticOperationsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E1BooleanPrinterTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E49WhileLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E51DoWhileLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E52DoWhileLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E53DoWhileLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E54ForLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E55ForLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E56ForLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E57ForLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E58ForLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E59ForLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E60ForLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E61ForLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E62ForLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E63ForLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E64ForLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E65ForLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E66ArrayTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E67ArraysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E68ArraysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E69ArraysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E71ArraysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E72ArraysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E73ArraysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E74ArraysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E75ArraysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E76ArraysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E77ArraysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E78ArraysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E79ArraysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E80ArraysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E81ArraysTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E82NestedForLoopsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E83NestedForLoopsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E84NestedForLoopsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E84NestedForLoopsTest.testPatternPrinting.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E85NestedForLoopsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E92StringManipulationsTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.E9AirthmeticOperationsTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/johnbangal/IdeaProjects/SDETB19JavaHW/src/test/java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/java" />
@@ -134,7 +139,7 @@
       <recent name="C:\Users\Syntax\IdeaProjects\SDETB19JavaHomeWorks\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.E100StringManipulationsTest">
+  <component name="RunManager" selected="JUnit.E92StringManipulationsTest">
     <configuration name="E100StringManipulations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.e100.E100StringManipulations" />
       <module name="SDETB19JavaHomeWorks" />
@@ -148,25 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E1BooleanPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.e1.E1BooleanPrinter" />
+    <configuration name="E92StringManipulations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.e92.E92StringManipulations" />
       <module name="SDETB19JavaHomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.e1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E84NestedForLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.e84.E84NestedForLoops" />
-      <module name="SDETB19JavaHomeWorks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.e84.*" />
+          <option name="PATTERN" value="org.example.e92.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,13 +194,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="E92StringManipulationsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SDETB19JavaHomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e92stringmanipulationstest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="e92stringmanipulationstest" />
+      <option name="MAIN_CLASS_NAME" value="e92stringmanipulationstest.E92StringManipulationsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.E92StringManipulationsTest" />
+        <item itemvalue="Application.E92StringManipulations" />
         <item itemvalue="JUnit.E100StringManipulationsTest" />
         <item itemvalue="Application.E100StringManipulations" />
         <item itemvalue="Application.E99StringManipulations" />
-        <item itemvalue="Application.E1BooleanPrinter" />
-        <item itemvalue="Application.E84NestedForLoops" />
       </list>
     </recent_temporary>
   </component>
