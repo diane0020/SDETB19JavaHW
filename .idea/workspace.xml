@@ -5,12 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bead955-2531-4033-bec1-d0faeb296db4" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_25_24,_6_57 pm_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_25_24,_7_27 pm_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_25_24__6_57pm__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_25_24__7_27pm__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e92/E92StringManipulations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e92/E92StringManipulations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e111/E111JavaMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e111/E111JavaMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e112/E112JavaMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e112/E112JavaMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e113/E113JavaMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e113/E113JavaMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e114/E114JavaMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e114/E114JavaMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e115/E115JavaMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e115/E115JavaMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e116/E116JavaMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e116/E116JavaMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e117/E117JavaMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e117/E117JavaMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e118/E118JavaMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e118/E118JavaMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e119/E119JavaMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e119/E119JavaMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e120/E120Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e120/E120Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e121/E121Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e121/E121Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e122/E122Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e122/E122Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e123/E123Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e123/E123Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e124/E124Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e124/E124Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e125/E125Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e125/E125Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e126/E126Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e126/E126Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e127/E127StaticKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e127/E127StaticKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e128/E128StaticKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e128/E128StaticKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e129/E129StaticKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e129/E129StaticKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e130/E130StaticKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e130/E130StaticKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e131/E131StaticKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e131/E131StaticKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e132/E132StaticKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e132/E132StaticKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e133/E133StaticKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e133/E133StaticKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e134/E134StaticKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e134/E134StaticKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e135/E135StaticKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e135/E135StaticKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e136/E136AccessModifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e136/E136AccessModifiers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e137/E137AccessModifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e137/E137AccessModifiers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e138/E138AccessModifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e138/E138AccessModifiers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e139/E139AccessModifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e139/E139AccessModifiers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e140/E140AccessModifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e140/E140AccessModifiers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e141/E141AccessModifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e141/E141AccessModifiers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e142/E142Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e142/E142Constructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e143/E143Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e143/E143Constructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e144/E144Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e144/E144Constructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e145/E145ThisKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e145/E145ThisKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e146/E146ThisKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e146/E146ThisKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e147/E147ThisKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e147/E147ThisKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e148/E148ThisKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e148/E148ThisKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/e114javamethodstest/E114JavaMethodsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e114javamethodstest/E114JavaMethodsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,111 +75,190 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.E100StringManipulations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E1BooleanPrinter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E51DoWhileLoop.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.E52DoWhileLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E53DoWhileLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E54ForLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E55ForLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E56ForLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E57ForLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E58ForLoop.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.E59ForLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E60ForLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E61ForLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E62ForLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E63ForLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E64ForLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E65ForLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E66Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E67Arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E68Arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E69Arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E70Arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E71Arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E72Arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E73Arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E74Arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E76Arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E78Arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E79Arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E80Arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E81Arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E82NestedForLoops.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E83NestedForLoops.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E84NestedForLoops.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E85NestedForLoops.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.E92StringManipulations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E99StringManipulations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.E9AirthmeticOperations.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E100StringManipulationsTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E10AirthmeticOperationsTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E1BooleanPrinterTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E49WhileLoopTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E51DoWhileLoopTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E52DoWhileLoopTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E53DoWhileLoopTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E54ForLoopTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E55ForLoopTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E56ForLoopTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E57ForLoopTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E58ForLoopTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E59ForLoopTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E60ForLoopTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E61ForLoopTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E62ForLoopTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E63ForLoopTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E64ForLoopTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E65ForLoopTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E66ArrayTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E67ArraysTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E68ArraysTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E69ArraysTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E71ArraysTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E72ArraysTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E73ArraysTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E74ArraysTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E75ArraysTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E76ArraysTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E77ArraysTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E78ArraysTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E79ArraysTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E80ArraysTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E81ArraysTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E82NestedForLoopsTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E83NestedForLoopsTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E84NestedForLoopsTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E84NestedForLoopsTest.testPatternPrinting.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E85NestedForLoopsTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E92StringManipulationsTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.E9AirthmeticOperationsTest.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/johnbangal/IdeaProjects/SDETB19JavaHW/src/test/java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.E100StringManipulations.executor": "Run",
+    "Application.E111JavaMethods.executor": "Run",
+    "Application.E112JavaMethods.executor": "Run",
+    "Application.E113JavaMethods.executor": "Run",
+    "Application.E114JavaMethods.executor": "Run",
+    "Application.E115JavaMethods.executor": "Run",
+    "Application.E116JavaMethods.executor": "Run",
+    "Application.E117JavaMethods.executor": "Run",
+    "Application.E118JavaMethods.executor": "Run",
+    "Application.E119JavaMethods.executor": "Run",
+    "Application.E120Variables.executor": "Run",
+    "Application.E121Variables.executor": "Run",
+    "Application.E122Variables.executor": "Run",
+    "Application.E123Variables.executor": "Run",
+    "Application.E124Variables.executor": "Run",
+    "Application.E125Variables.executor": "Run",
+    "Application.E126Variables.executor": "Run",
+    "Application.E127StaticKeyword.executor": "Run",
+    "Application.E128StaticKeyword.executor": "Run",
+    "Application.E129StaticKeyword.executor": "Run",
+    "Application.E130StaticKeyword.executor": "Run",
+    "Application.E131StaticKeyword.executor": "Run",
+    "Application.E132StaticKeyword.executor": "Run",
+    "Application.E133StaticKeyword.executor": "Run",
+    "Application.E134StaticKeyword.executor": "Run",
+    "Application.E135StaticKeyword.executor": "Run",
+    "Application.E136AccessModifiers.executor": "Run",
+    "Application.E137AccessModifiers.executor": "Run",
+    "Application.E138AccessModifiers.executor": "Run",
+    "Application.E139AccessModifiers.executor": "Run",
+    "Application.E140AccessModifiers.executor": "Run",
+    "Application.E141AccessModifiers.executor": "Run",
+    "Application.E142Constructor (1).executor": "Run",
+    "Application.E142Constructor.executor": "Run",
+    "Application.E143Constructor (1).executor": "Run",
+    "Application.E143Constructor.executor": "Run",
+    "Application.E144Constructor.executor": "Run",
+    "Application.E145ThisKeyword.executor": "Run",
+    "Application.E146ThisKeyword.executor": "Run",
+    "Application.E147ThisKeyword.executor": "Run",
+    "Application.E148ThisKeyword (1).executor": "Run",
+    "Application.E148ThisKeyword (2).executor": "Run",
+    "Application.E148ThisKeyword.executor": "Debug",
+    "Application.E1BooleanPrinter.executor": "Run",
+    "Application.E51DoWhileLoop.executor": "Debug",
+    "Application.E52DoWhileLoop.executor": "Run",
+    "Application.E53DoWhileLoop.executor": "Run",
+    "Application.E54ForLoop.executor": "Run",
+    "Application.E55ForLoop.executor": "Run",
+    "Application.E56ForLoop.executor": "Run",
+    "Application.E57ForLoop.executor": "Run",
+    "Application.E58ForLoop.executor": "Debug",
+    "Application.E59ForLoop.executor": "Run",
+    "Application.E60ForLoop.executor": "Run",
+    "Application.E61ForLoop.executor": "Run",
+    "Application.E62ForLoop.executor": "Run",
+    "Application.E63ForLoop.executor": "Run",
+    "Application.E64ForLoop.executor": "Run",
+    "Application.E65ForLoop.executor": "Run",
+    "Application.E66Array.executor": "Run",
+    "Application.E67Arrays.executor": "Run",
+    "Application.E68Arrays.executor": "Run",
+    "Application.E69Arrays.executor": "Run",
+    "Application.E70Arrays.executor": "Run",
+    "Application.E71Arrays.executor": "Run",
+    "Application.E72Arrays.executor": "Run",
+    "Application.E73Arrays.executor": "Run",
+    "Application.E74Arrays.executor": "Run",
+    "Application.E76Arrays.executor": "Run",
+    "Application.E78Arrays.executor": "Run",
+    "Application.E79Arrays.executor": "Run",
+    "Application.E80Arrays.executor": "Run",
+    "Application.E81Arrays.executor": "Run",
+    "Application.E82NestedForLoops.executor": "Run",
+    "Application.E83NestedForLoops.executor": "Run",
+    "Application.E84NestedForLoops.executor": "Run",
+    "Application.E85NestedForLoops.executor": "Debug",
+    "Application.E92StringManipulations.executor": "Run",
+    "Application.E99StringManipulations.executor": "Run",
+    "Application.E9AirthmeticOperations.executor": "Run",
+    "JUnit.E100StringManipulationsTest.executor": "Run",
+    "JUnit.E10AirthmeticOperationsTest.executor": "Run",
+    "JUnit.E111JavaMethodsTest.executor": "Run",
+    "JUnit.E112JavaMethodsTest.executor": "Run",
+    "JUnit.E113JavaMethodsTest.executor": "Run",
+    "JUnit.E114JavaMethodsTest.executor": "Run",
+    "JUnit.E115JavaMethodsTest.executor": "Run",
+    "JUnit.E116JavaMethodsTest.executor": "Run",
+    "JUnit.E117JavaMethodsTest.executor": "Run",
+    "JUnit.E118JavaMethodsTest.executor": "Run",
+    "JUnit.E119JavaMethodsTest.executor": "Run",
+    "JUnit.E120VariablesTest.executor": "Run",
+    "JUnit.E121VariablesTest.executor": "Run",
+    "JUnit.E122VariablesTest.executor": "Run",
+    "JUnit.E123VariablesTest.executor": "Run",
+    "JUnit.E124VariablesTest.executor": "Run",
+    "JUnit.E125VariablesTest.executor": "Run",
+    "JUnit.E126VariablesTest.executor": "Run",
+    "JUnit.E127StaticKeywordTest.executor": "Run",
+    "JUnit.E128StaticKeywordTest.executor": "Run",
+    "JUnit.E129StaticKeywordTest.executor": "Run",
+    "JUnit.E130StaticKeywordTest.executor": "Run",
+    "JUnit.E131StaticKeywordTest.executor": "Run",
+    "JUnit.E132StaticKeywordTest.executor": "Run",
+    "JUnit.E133StaticKeywordTest.executor": "Run",
+    "JUnit.E134StaticKeywordTest.executor": "Run",
+    "JUnit.E135StaticKeywordTest.executor": "Run",
+    "JUnit.E136AccessModifiersTest.executor": "Run",
+    "JUnit.E137AccessModifiersTest.executor": "Run",
+    "JUnit.E138AccessModifiersTest.executor": "Run",
+    "JUnit.E139AccessModifiersTest.executor": "Run",
+    "JUnit.E140AccessModifiersTest.executor": "Run",
+    "JUnit.E141AccessModifiersTest.executor": "Run",
+    "JUnit.E142ConstructorTest.executor": "Run",
+    "JUnit.E143ConstructorTest.executor": "Run",
+    "JUnit.E144ConstructorTest.executor": "Run",
+    "JUnit.E145ThisKeywordTest.executor": "Run",
+    "JUnit.E146ThisKeywordTest.executor": "Run",
+    "JUnit.E147ThisKeywordTest.executor": "Run",
+    "JUnit.E1BooleanPrinterTest.executor": "Run",
+    "JUnit.E49WhileLoopTest.executor": "Run",
+    "JUnit.E51DoWhileLoopTest.executor": "Run",
+    "JUnit.E52DoWhileLoopTest.executor": "Run",
+    "JUnit.E53DoWhileLoopTest.executor": "Run",
+    "JUnit.E54ForLoopTest.executor": "Run",
+    "JUnit.E55ForLoopTest.executor": "Run",
+    "JUnit.E56ForLoopTest.executor": "Run",
+    "JUnit.E57ForLoopTest.executor": "Run",
+    "JUnit.E58ForLoopTest.executor": "Run",
+    "JUnit.E59ForLoopTest.executor": "Run",
+    "JUnit.E60ForLoopTest.executor": "Run",
+    "JUnit.E61ForLoopTest.executor": "Run",
+    "JUnit.E62ForLoopTest.executor": "Run",
+    "JUnit.E63ForLoopTest.executor": "Run",
+    "JUnit.E64ForLoopTest.executor": "Run",
+    "JUnit.E65ForLoopTest.executor": "Run",
+    "JUnit.E66ArrayTest.executor": "Run",
+    "JUnit.E67ArraysTest.executor": "Run",
+    "JUnit.E68ArraysTest.executor": "Run",
+    "JUnit.E69ArraysTest.executor": "Run",
+    "JUnit.E71ArraysTest.executor": "Run",
+    "JUnit.E72ArraysTest.executor": "Run",
+    "JUnit.E73ArraysTest.executor": "Run",
+    "JUnit.E74ArraysTest.executor": "Run",
+    "JUnit.E75ArraysTest.executor": "Run",
+    "JUnit.E76ArraysTest.executor": "Run",
+    "JUnit.E77ArraysTest.executor": "Run",
+    "JUnit.E78ArraysTest.executor": "Run",
+    "JUnit.E79ArraysTest.executor": "Run",
+    "JUnit.E80ArraysTest.executor": "Run",
+    "JUnit.E81ArraysTest.executor": "Run",
+    "JUnit.E82NestedForLoopsTest.executor": "Run",
+    "JUnit.E83NestedForLoopsTest.executor": "Run",
+    "JUnit.E84NestedForLoopsTest.executor": "Run",
+    "JUnit.E84NestedForLoopsTest.testPatternPrinting.executor": "Run",
+    "JUnit.E85NestedForLoopsTest.executor": "Run",
+    "JUnit.E92StringManipulationsTest.executor": "Run",
+    "JUnit.E9AirthmeticOperationsTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/johnbangal/IdeaProjects/SDETB19JavaHW/src/test/java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/java" />
-      <recent name="$PROJECT_DIR$/src/test" />
       <recent name="$PROJECT_DIR$/src/main/java/org/example" />
+      <recent name="$PROJECT_DIR$/src/test" />
       <recent name="C:\Users\Syntax\IdeaProjects\SDETB19JavaHomeWorks\src\test\java" />
       <recent name="C:\Users\Syntax\IdeaProjects\SDETB19JavaHomeWorks\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.E92StringManipulationsTest">
-    <configuration name="E100StringManipulations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.e100.E100StringManipulations" />
+  <component name="RunManager" selected="JUnit.E148ThisKeywordTest">
+    <configuration name="E148ThisKeyword (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.e148.E148ThisKeyword" />
       <module name="SDETB19JavaHomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.e100.*" />
+          <option name="PATTERN" value="org.example.e148.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +266,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E92StringManipulations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.e92.E92StringManipulations" />
+    <configuration name="E148ThisKeyword (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.e148.E148ThisKeyword" />
       <module name="SDETB19JavaHomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.e92.*" />
+          <option name="PATTERN" value="org.example.e148.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +279,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E99StringManipulations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.e99.E99StringManipulations" />
+    <configuration name="E148ThisKeyword (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.e148.E148ThisKeyword" />
       <module name="SDETB19JavaHomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.e99.*" />
+          <option name="PATTERN" value="org.example.e148.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,31 +292,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E100StringManipulationsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="E148ThisKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.e148.E148ThisKeyword" />
       <module name="SDETB19JavaHomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="e100stringmanipulationstest.*" />
+          <option name="PATTERN" value="org.example.e148.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="e100stringmanipulationstest" />
-      <option name="MAIN_CLASS_NAME" value="e100stringmanipulationstest.E100StringManipulationsTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E92StringManipulationsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="E148ThisKeywordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SDETB19JavaHomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="e92stringmanipulationstest.*" />
+          <option name="PATTERN" value="e148thiskeywordtest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="e92stringmanipulationstest" />
-      <option name="MAIN_CLASS_NAME" value="e92stringmanipulationstest.E92StringManipulationsTest" />
+      <option name="PACKAGE_NAME" value="e148thiskeywordtest" />
+      <option name="MAIN_CLASS_NAME" value="e148thiskeywordtest.E148ThisKeywordTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -211,11 +322,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.E92StringManipulationsTest" />
-        <item itemvalue="Application.E92StringManipulations" />
-        <item itemvalue="JUnit.E100StringManipulationsTest" />
-        <item itemvalue="Application.E100StringManipulations" />
-        <item itemvalue="Application.E99StringManipulations" />
+        <item itemvalue="JUnit.E148ThisKeywordTest" />
+        <item itemvalue="Application.E148ThisKeyword" />
+        <item itemvalue="Application.E148ThisKeyword (4)" />
+        <item itemvalue="Application.E148ThisKeyword (3)" />
+        <item itemvalue="Application.E148ThisKeyword (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -275,7 +386,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710807430454</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update">
+      <option name="closed" value="true" />
+      <created>1712505310034</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712505310034</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -297,7 +416,8 @@
     <MESSAGE value="update e66" />
     <MESSAGE value="did hw up to e83. passed all the test except for e72" />
     <MESSAGE value="done with all the hw and passed all the test." />
-    <option name="LAST_COMMIT_MESSAGE" value="done with all the hw and passed all the test." />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -326,6 +446,45 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/e85/E85NestedForLoops.java</url>
           <line>5</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/e131/E131StaticKeyword.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/e131/E131StaticKeyword.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/e133/E133StaticKeyword.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/e135/E135StaticKeyword.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/e139/E139AccessModifiers.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/e148/E148ThisKeyword.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/e118/E118JavaMethods.java</url>
+          <line>6</line>
+          <properties class="org.example.e118.E118JavaMethods" method="spaceOut">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

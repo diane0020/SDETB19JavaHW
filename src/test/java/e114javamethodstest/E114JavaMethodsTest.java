@@ -28,9 +28,9 @@ public class E114JavaMethodsTest {
     @Test
     public void testArithmeticOperations() {
         E114JavaMethods.main(new String[]{}); // No arguments are passed as it's not needed
-        String expectedOutput = "Addition 30 " + System.lineSeparator() +
-                "Multiplication 30 " + System.lineSeparator() +
-                "Subtraction 20 " + System.lineSeparator();
+        String expectedOutput = "Addition 30" + System.lineSeparator() +
+                "Multiplication 30" + System.lineSeparator() +
+                "Subtraction 20" + System.lineSeparator();
         assertEquals(expectedOutput, outContent.toString());
     }
 }
