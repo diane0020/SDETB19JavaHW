@@ -5,46 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bead955-2531-4033-bec1-d0faeb296db4" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e111/E111JavaMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e111/E111JavaMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e112/E112JavaMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e112/E112JavaMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e113/E113JavaMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e113/E113JavaMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e114/E114JavaMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e114/E114JavaMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e115/E115JavaMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e115/E115JavaMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e116/E116JavaMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e116/E116JavaMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e117/E117JavaMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e117/E117JavaMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e118/E118JavaMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e118/E118JavaMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e119/E119JavaMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e119/E119JavaMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e120/E120Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e120/E120Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e121/E121Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e121/E121Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e122/E122Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e122/E122Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e123/E123Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e123/E123Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e124/E124Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e124/E124Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e125/E125Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e125/E125Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e126/E126Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e126/E126Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e127/E127StaticKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e127/E127StaticKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e128/E128StaticKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e128/E128StaticKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e129/E129StaticKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e129/E129StaticKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e130/E130StaticKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e130/E130StaticKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e131/E131StaticKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e131/E131StaticKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e132/E132StaticKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e132/E132StaticKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e133/E133StaticKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e133/E133StaticKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e134/E134StaticKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e134/E134StaticKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e135/E135StaticKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e135/E135StaticKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e136/E136AccessModifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e136/E136AccessModifiers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e137/E137AccessModifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e137/E137AccessModifiers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e138/E138AccessModifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e138/E138AccessModifiers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e139/E139AccessModifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e139/E139AccessModifiers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e140/E140AccessModifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e140/E140AccessModifiers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e141/E141AccessModifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e141/E141AccessModifiers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e142/E142Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e142/E142Constructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e143/E143Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e143/E143Constructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e144/E144Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e144/E144Constructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e145/E145ThisKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e145/E145ThisKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e146/E146ThisKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e146/E146ThisKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e147/E147ThisKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e147/E147ThisKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e148/E148ThisKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e148/E148ThisKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/e114javamethodstest/E114JavaMethodsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/e114javamethodstest/E114JavaMethodsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e149/E149Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e149/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e150/E150Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e150/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e151/E151Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e151/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e152/E152SuperKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e152/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e153/E153SuperKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e153/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e154/E154SuperKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e154/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e155/E155SuperKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e155/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e156/E156SuperKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e156/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e157/E157SuperKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e157/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e158/E158SuperKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e158/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e159/E159MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e159/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e160/E160MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e160/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e161/E161MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e161/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e162/E162MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e162/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e163/E163MethodOverriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e163/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e164/E164MethodOverriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e164/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e165/E165MethodOverriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e165/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e166/E166MethodOverriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e166/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e167/E167FinalKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e167/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e168/E168FinalKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e168/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e169/E169FinalKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e169/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e170/E170FinalKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e170/instructions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +124,10 @@
     "Application.E147ThisKeyword.executor": "Run",
     "Application.E148ThisKeyword (1).executor": "Run",
     "Application.E148ThisKeyword (2).executor": "Run",
-    "Application.E148ThisKeyword.executor": "Debug",
+    "Application.E148ThisKeyword (3).executor": "Run",
+    "Application.E148ThisKeyword (4).executor": "Run",
+    "Application.E148ThisKeyword.executor": "Run",
+    "Application.E149Inheritance.executor": "Run",
     "Application.E1BooleanPrinter.executor": "Run",
     "Application.E51DoWhileLoop.executor": "Debug",
     "Application.E52DoWhileLoop.executor": "Run",
@@ -196,6 +204,7 @@
     "JUnit.E145ThisKeywordTest.executor": "Run",
     "JUnit.E146ThisKeywordTest.executor": "Run",
     "JUnit.E147ThisKeywordTest.executor": "Run",
+    "JUnit.E148ThisKeywordTest.executor": "Run",
     "JUnit.E1BooleanPrinterTest.executor": "Run",
     "JUnit.E49WhileLoopTest.executor": "Run",
     "JUnit.E51DoWhileLoopTest.executor": "Run",
@@ -239,46 +248,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/johnbangal/IdeaProjects/SDETB19JavaHW/src/test/java",
+    "last_opened_file_path": "/Users/johnbangal/IdeaProjects/SDETB19JavaHW/src/main/java/org/example",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/test/java" />
       <recent name="$PROJECT_DIR$/src/main/java/org/example" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
       <recent name="$PROJECT_DIR$/src/test" />
       <recent name="C:\Users\Syntax\IdeaProjects\SDETB19JavaHomeWorks\src\test\java" />
       <recent name="C:\Users\Syntax\IdeaProjects\SDETB19JavaHomeWorks\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.E148ThisKeywordTest">
-    <configuration name="E148ThisKeyword (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.e148.E148ThisKeyword" />
-      <module name="SDETB19JavaHomeWorks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.e148.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E148ThisKeyword (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.e148.E148ThisKeyword" />
-      <module name="SDETB19JavaHomeWorks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.e148.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.E149InheritanceTest">
     <configuration name="E148ThisKeyword (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.e148.E148ThisKeyword" />
       <module name="SDETB19JavaHomeWorks" />
@@ -305,6 +288,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="E149Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.e149.E149Inheritance" />
+      <module name="SDETB19JavaHomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.e149.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="E148ThisKeywordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SDETB19JavaHomeWorks" />
       <extension name="coverage">
@@ -320,13 +316,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="E149InheritanceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SDETB19JavaHomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e149inheritancetest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="e149inheritancetest" />
+      <option name="MAIN_CLASS_NAME" value="e149inheritancetest.E149InheritanceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.E149InheritanceTest" />
+        <item itemvalue="Application.E149Inheritance" />
         <item itemvalue="JUnit.E148ThisKeywordTest" />
         <item itemvalue="Application.E148ThisKeyword" />
         <item itemvalue="Application.E148ThisKeyword (4)" />
-        <item itemvalue="Application.E148ThisKeyword (3)" />
-        <item itemvalue="Application.E148ThisKeyword (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -471,11 +482,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/e139/E139AccessModifiers.java</url>
           <line>8</line>
           <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/e148/E148ThisKeyword.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/e118/E118JavaMethods.java</url>
