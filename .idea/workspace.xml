@@ -5,51 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bead955-2531-4033-bec1-d0faeb296db4" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e149/E149Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e149/instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e150/E150Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e150/instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e151/E151Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e151/instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e152/E152SuperKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e152/instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e153/E153SuperKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e153/instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e154/E154SuperKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e154/instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e155/E155SuperKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e155/instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e156/E156SuperKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e156/instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e157/E157SuperKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e157/instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e158/E158SuperKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e158/instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e159/E159MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e159/instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e160/E160MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e160/instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e161/E161MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e161/instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e162/E162MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e162/instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e163/E163MethodOverriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e163/instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e164/E164MethodOverriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e164/instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e165/E165MethodOverriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e165/instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e166/E166MethodOverriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e166/instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e167/E167FinalKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e167/instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e168/E168FinalKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e168/instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e169/E169FinalKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e169/instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e170/E170FinalKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e170/instructions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e129/E129StaticKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e129/E129StaticKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e150/E150Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e150/E150Inheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e151/E151Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e151/E151Inheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e152/E152SuperKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e152/E152SuperKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e153/E153SuperKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e153/E153SuperKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e154/E154SuperKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e154/E154SuperKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e155/E155SuperKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e155/E155SuperKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e156/E156SuperKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e156/E156SuperKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e157/E157SuperKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e157/E157SuperKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e158/E158SuperKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e158/E158SuperKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e159/E159MethodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e159/E159MethodOverloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e160/E160MethodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e160/E160MethodOverloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e161/E161MethodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e161/E161MethodOverloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e162/E162MethodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e162/E162MethodOverloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e163/E163MethodOverriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e163/E163MethodOverriding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e164/E164MethodOverriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e164/E164MethodOverriding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e165/E165MethodOverriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e165/E165MethodOverriding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e166/E166MethodOverriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e166/E166MethodOverriding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e167/E167FinalKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e167/E167FinalKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e168/E168FinalKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e168/E168FinalKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e169/E169FinalKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e169/E169FinalKeyword.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,6 +105,26 @@
     "Application.E148ThisKeyword (4).executor": "Run",
     "Application.E148ThisKeyword.executor": "Run",
     "Application.E149Inheritance.executor": "Run",
+    "Application.E150Inheritance.executor": "Run",
+    "Application.E151Inheritance.executor": "Run",
+    "Application.E152SuperKeyword.executor": "Run",
+    "Application.E153SuperKeyword.executor": "Run",
+    "Application.E154SuperKeyword.executor": "Run",
+    "Application.E155SuperKeyword.executor": "Run",
+    "Application.E156SuperKeyword (1).executor": "Run",
+    "Application.E156SuperKeyword.executor": "Run",
+    "Application.E157SuperKeyword.executor": "Run",
+    "Application.E158SuperKeyword.executor": "Run",
+    "Application.E159MethodOverloading.executor": "Run",
+    "Application.E161MethodOverloading.executor": "Run",
+    "Application.E162MethodOverloading.executor": "Run",
+    "Application.E163MethodOverriding.executor": "Run",
+    "Application.E164MethodOverriding.executor": "Run",
+    "Application.E166MethodOverriding (1).executor": "Run",
+    "Application.E166MethodOverriding.executor": "Run",
+    "Application.E167FinalKeyword.executor": "Run",
+    "Application.E168FinalKeyword.executor": "Run",
+    "Application.E169FinalKeyword.executor": "Run",
     "Application.E1BooleanPrinter.executor": "Run",
     "Application.E51DoWhileLoop.executor": "Debug",
     "Application.E52DoWhileLoop.executor": "Run",
@@ -205,6 +202,26 @@
     "JUnit.E146ThisKeywordTest.executor": "Run",
     "JUnit.E147ThisKeywordTest.executor": "Run",
     "JUnit.E148ThisKeywordTest.executor": "Run",
+    "JUnit.E149InheritanceTest.executor": "Run",
+    "JUnit.E150InheritanceTest.executor": "Run",
+    "JUnit.E151InheritanceTest.executor": "Run",
+    "JUnit.E152SuperKeywordTest.executor": "Run",
+    "JUnit.E153SuperKeywordTest.executor": "Run",
+    "JUnit.E154SuperKeywordTest.executor": "Run",
+    "JUnit.E155SuperKeywordTest.executor": "Run",
+    "JUnit.E156SuperKeywordTest.executor": "Run",
+    "JUnit.E157SuperKeywordTest.executor": "Run",
+    "JUnit.E158SuperKeywordTest.executor": "Run",
+    "JUnit.E159MethodOverloadingTest.executor": "Run",
+    "JUnit.E160MethodOverloadingTest.executor": "Run",
+    "JUnit.E161MethodOverloadingTest.executor": "Run",
+    "JUnit.E162MethodOverloadingTest.executor": "Run",
+    "JUnit.E163MethodOverridingTest.executor": "Run",
+    "JUnit.E164MethodOverridingTest.executor": "Run",
+    "JUnit.E165MethodOverridingTest.executor": "Run",
+    "JUnit.E166MethodOverridingTest.executor": "Run",
+    "JUnit.E167FinalKeywordTest.executor": "Run",
+    "JUnit.E168FinalKeywordTest.executor": "Run",
     "JUnit.E1BooleanPrinterTest.executor": "Run",
     "JUnit.E49WhileLoopTest.executor": "Run",
     "JUnit.E51DoWhileLoopTest.executor": "Run",
@@ -248,26 +265,26 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/johnbangal/IdeaProjects/SDETB19JavaHW/src/main/java/org/example",
+    "last_opened_file_path": "/Users/johnbangal/IdeaProjects/SDETB19JavaHW/src/test/java",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/org/example" />
       <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/example" />
       <recent name="$PROJECT_DIR$/src/test" />
       <recent name="C:\Users\Syntax\IdeaProjects\SDETB19JavaHomeWorks\src\test\java" />
       <recent name="C:\Users\Syntax\IdeaProjects\SDETB19JavaHomeWorks\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.E149InheritanceTest">
-    <configuration name="E148ThisKeyword (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.e148.E148ThisKeyword" />
+  <component name="RunManager" selected="JUnit.E170FinalKeywordTest">
+    <configuration name="E169FinalKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.e169.E169FinalKeyword" />
       <module name="SDETB19JavaHomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.e148.*" />
+          <option name="PATTERN" value="org.example.e169.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,12 +292,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E148ThisKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.e148.E148ThisKeyword" />
+    <configuration name="E170FinalKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.e170.E170FinalKeyword" />
       <module name="SDETB19JavaHomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.e148.*" />
+          <option name="PATTERN" value="org.example.e170.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,44 +305,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E149Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.e149.E149Inheritance" />
+    <configuration name="E168FinalKeywordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SDETB19JavaHomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.e149.*" />
+          <option name="PATTERN" value="e168finalkeywordtest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E148ThisKeywordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SDETB19JavaHomeWorks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="e148thiskeywordtest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="e148thiskeywordtest" />
-      <option name="MAIN_CLASS_NAME" value="e148thiskeywordtest.E148ThisKeywordTest" />
+      <option name="PACKAGE_NAME" value="e168finalkeywordtest" />
+      <option name="MAIN_CLASS_NAME" value="e168finalkeywordtest.E168FinalKeywordTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E149InheritanceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="E169FinalKeywordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SDETB19JavaHomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="e149inheritancetest.*" />
+          <option name="PATTERN" value="e169finalkeywordtest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="e149inheritancetest" />
-      <option name="MAIN_CLASS_NAME" value="e149inheritancetest.E149InheritanceTest" />
+      <option name="PACKAGE_NAME" value="e169finalkeywordtest" />
+      <option name="MAIN_CLASS_NAME" value="e169finalkeywordtest.E169FinalKeywordTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E170FinalKeywordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SDETB19JavaHomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e170finalkeywordtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="e170finalkeywordtest" />
+      <option name="MAIN_CLASS_NAME" value="e170finalkeywordtest.E170FinalKeywordTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -333,11 +352,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.E149InheritanceTest" />
-        <item itemvalue="Application.E149Inheritance" />
-        <item itemvalue="JUnit.E148ThisKeywordTest" />
-        <item itemvalue="Application.E148ThisKeyword" />
-        <item itemvalue="Application.E148ThisKeyword (4)" />
+        <item itemvalue="JUnit.E170FinalKeywordTest" />
+        <item itemvalue="Application.E170FinalKeyword" />
+        <item itemvalue="JUnit.E169FinalKeywordTest" />
+        <item itemvalue="Application.E169FinalKeyword" />
+        <item itemvalue="JUnit.E168FinalKeywordTest" />
       </list>
     </recent_temporary>
   </component>
@@ -405,7 +424,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712505310034</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update">
+      <option name="closed" value="true" />
+      <created>1712799835034</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712799835034</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
