@@ -4,29 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bead955-2531-4033-bec1-d0faeb296db4" name="Changes" comment="update">
+    <list default="true" id="7bead955-2531-4033-bec1-d0faeb296db4" name="Changes" comment="done all homework and passed all the test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e129/E129StaticKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e129/E129StaticKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e150/E150Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e150/E150Inheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e151/E151Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e151/E151Inheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e152/E152SuperKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e152/E152SuperKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e153/E153SuperKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e153/E153SuperKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e154/E154SuperKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e154/E154SuperKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e155/E155SuperKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e155/E155SuperKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e156/E156SuperKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e156/E156SuperKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e157/E157SuperKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e157/E157SuperKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e158/E158SuperKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e158/E158SuperKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e159/E159MethodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e159/E159MethodOverloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e160/E160MethodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e160/E160MethodOverloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e161/E161MethodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e161/E161MethodOverloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e162/E162MethodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e162/E162MethodOverloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e163/E163MethodOverriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e163/E163MethodOverriding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e164/E164MethodOverriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e164/E164MethodOverriding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e165/E165MethodOverriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e165/E165MethodOverriding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e166/E166MethodOverriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e166/E166MethodOverriding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e167/E167FinalKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e167/E167FinalKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e168/E168FinalKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e168/E168FinalKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e169/E169FinalKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e169/E169FinalKeyword.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +104,7 @@
     "Application.E167FinalKeyword.executor": "Run",
     "Application.E168FinalKeyword.executor": "Run",
     "Application.E169FinalKeyword.executor": "Run",
+    "Application.E170FinalKeyword.executor": "Run",
     "Application.E1BooleanPrinter.executor": "Run",
     "Application.E51DoWhileLoop.executor": "Debug",
     "Application.E52DoWhileLoop.executor": "Run",
@@ -222,6 +202,8 @@
     "JUnit.E166MethodOverridingTest.executor": "Run",
     "JUnit.E167FinalKeywordTest.executor": "Run",
     "JUnit.E168FinalKeywordTest.executor": "Run",
+    "JUnit.E169FinalKeywordTest.executor": "Run",
+    "JUnit.E170FinalKeywordTest.executor": "Run",
     "JUnit.E1BooleanPrinterTest.executor": "Run",
     "JUnit.E49WhileLoopTest.executor": "Run",
     "JUnit.E51DoWhileLoopTest.executor": "Run",
@@ -266,7 +248,7 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/johnbangal/IdeaProjects/SDETB19JavaHW/src/test/java",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "preferences.intentionPowerPack"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -432,7 +414,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712799835034</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="done all homework and passed all the test">
+      <option name="closed" value="true" />
+      <created>1712913060783</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712913060783</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -455,7 +445,8 @@
     <MESSAGE value="did hw up to e83. passed all the test except for e72" />
     <MESSAGE value="done with all the hw and passed all the test." />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="done all homework and passed all the test" />
+    <option name="LAST_COMMIT_MESSAGE" value="done all homework and passed all the test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
