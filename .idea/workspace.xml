@@ -4,8 +4,101 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bead955-2531-4033-bec1-d0faeb296db4" name="Changes" comment="done all homework and passed all the test">
+    <list default="true" id="7bead955-2531-4033-bec1-d0faeb296db4" name="Changes" comment="update new homework">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e183/E183List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e183/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e184/E184List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e184/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e185/E185List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e185/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e186/E186List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e186/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e187/E187List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e187/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e188/E188List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e188/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e189/E189List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e189/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e190/E190List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e190/instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e191/E191List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e191/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e192/E192List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e192/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e193/E193List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e193/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e194/E194List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e194/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e195/E195Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e195/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e196/E196Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e196/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e197/E197Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e197/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e198/E198Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e198/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e199/E199Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e199/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e200/E200Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e200/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e201/E201Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e201/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e202/E202Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e202/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e203/E203Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e203/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e204/E204Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e204/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e205/E205Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e205/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e206/E206Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e206/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e207/E207Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e207/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e208/E208Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e208/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e209/E209Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/e209/Instructions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e183listtest/E183ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e184listtest/E184ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e185listtest/E185ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e186listtest/E186ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e187listtest/E187ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e188listtest/E188ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e189listtest/E189ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e190listtest/E190ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e191listtest/E191ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e192listtest/E192ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e193listtest/E193ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e194listtest/E194ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e195settest/E195SetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e196settest/E196SetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e197settest/E197SetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e198settest/E198SetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e199settest/E199SetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e200maptest/E200MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e201maptest/E201MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e202maptest/E202MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e203maptest/E203MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e204maptest/E204MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e205maptest/E205MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e206maptest/E206MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e207maptest/E207MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e208maptest/E208MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/e209maptest/E209MapTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e171/E171AbstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e171/E171AbstractClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e172/E172AbstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e172/E172AbstractClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e173/E173AbstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e173/E173AbstractClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e174/E174InterfaceClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e174/E174InterfaceClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e175/E175MultipleInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e175/E175MultipleInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e176/E176MultipleInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e176/E176MultipleInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e177/E177MultipleInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e177/E177MultipleInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e178/E178Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e178/E178Encapsulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e179/E179Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e179/E179Encapsulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e180/E180Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e180/E180Encapsulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e181/E181Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e181/E181Encapsulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/e182/E182Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/e182/E182Encapsulation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +198,20 @@
     "Application.E168FinalKeyword.executor": "Run",
     "Application.E169FinalKeyword.executor": "Run",
     "Application.E170FinalKeyword.executor": "Run",
+    "Application.E171AbstractClass.executor": "Run",
+    "Application.E172AbstractClass.executor": "Run",
+    "Application.E173AbstractClass.executor": "Run",
+    "Application.E174InterfaceClass.executor": "Run",
+    "Application.E175MultipleInterface.executor": "Run",
+    "Application.E176MultipleInterface.executor": "Run",
+    "Application.E177MultipleInterface.executor": "Run",
+    "Application.E178Encapsulation.executor": "Run",
+    "Application.E179Encapsulation.executor": "Run",
+    "Application.E180Encapsulation.executor": "Run",
+    "Application.E181Encapsulation.executor": "Run",
+    "Application.E182Encapsulation.executor": "Run",
+    "Application.E183List.executor": "Run",
+    "Application.E184List.executor": "Run",
     "Application.E1BooleanPrinter.executor": "Run",
     "Application.E51DoWhileLoop.executor": "Debug",
     "Application.E52DoWhileLoop.executor": "Run",
@@ -204,6 +311,19 @@
     "JUnit.E168FinalKeywordTest.executor": "Run",
     "JUnit.E169FinalKeywordTest.executor": "Run",
     "JUnit.E170FinalKeywordTest.executor": "Run",
+    "JUnit.E171AbstractClassTest.executor": "Run",
+    "JUnit.E172AbstractClassTest.executor": "Run",
+    "JUnit.E173AbstractClassTest.executor": "Run",
+    "JUnit.E174InterfaceClassTest.executor": "Run",
+    "JUnit.E175MultipleInterfaceTest.executor": "Run",
+    "JUnit.E176MultipleInterfaceTest.executor": "Run",
+    "JUnit.E177MultipleInterfaceTest.executor": "Run",
+    "JUnit.E178EncapsulationTest.executor": "Run",
+    "JUnit.E179EncapsulationTest.executor": "Run",
+    "JUnit.E180EncapsulationTest.executor": "Run",
+    "JUnit.E181EncapsulationTest.executor": "Run",
+    "JUnit.E182EncapsulationTest.executor": "Run",
+    "JUnit.E183ListTest.executor": "Run",
     "JUnit.E1BooleanPrinterTest.executor": "Run",
     "JUnit.E49WhileLoopTest.executor": "Run",
     "JUnit.E51DoWhileLoopTest.executor": "Run",
@@ -248,7 +368,7 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/johnbangal/IdeaProjects/SDETB19JavaHW/src/test/java",
-    "settings.editor.selected.configurable": "preferences.intentionPowerPack"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -260,13 +380,13 @@
       <recent name="C:\Users\Syntax\IdeaProjects\SDETB19JavaHomeWorks\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.E170FinalKeywordTest">
-    <configuration name="E169FinalKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.e169.E169FinalKeyword" />
+  <component name="RunManager" selected="JUnit.E185ListTest">
+    <configuration name="E183List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.e183.E183List" />
       <module name="SDETB19JavaHomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.e169.*" />
+          <option name="PATTERN" value="org.example.e183.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,12 +394,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E170FinalKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.e170.E170FinalKeyword" />
+    <configuration name="E184List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.e184.E184List" />
       <module name="SDETB19JavaHomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.e170.*" />
+          <option name="PATTERN" value="org.example.e184.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -287,46 +407,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E168FinalKeywordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="E183ListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SDETB19JavaHomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="e168finalkeywordtest.*" />
+          <option name="PATTERN" value="e183listtest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="e168finalkeywordtest" />
-      <option name="MAIN_CLASS_NAME" value="e168finalkeywordtest.E168FinalKeywordTest" />
+      <option name="PACKAGE_NAME" value="e183listtest" />
+      <option name="MAIN_CLASS_NAME" value="e183listtest.E183ListTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E169FinalKeywordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="E184ListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SDETB19JavaHomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="e169finalkeywordtest.*" />
+          <option name="PATTERN" value="e184listtest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="e169finalkeywordtest" />
-      <option name="MAIN_CLASS_NAME" value="e169finalkeywordtest.E169FinalKeywordTest" />
+      <option name="PACKAGE_NAME" value="e184listtest" />
+      <option name="MAIN_CLASS_NAME" value="e184listtest.E184ListTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E170FinalKeywordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="E185ListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SDETB19JavaHomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="e170finalkeywordtest.*" />
+          <option name="PATTERN" value="e185listtest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="e170finalkeywordtest" />
-      <option name="MAIN_CLASS_NAME" value="e170finalkeywordtest.E170FinalKeywordTest" />
+      <option name="PACKAGE_NAME" value="e185listtest" />
+      <option name="MAIN_CLASS_NAME" value="e185listtest.E185ListTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -334,11 +454,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.E170FinalKeywordTest" />
-        <item itemvalue="Application.E170FinalKeyword" />
-        <item itemvalue="JUnit.E169FinalKeywordTest" />
-        <item itemvalue="Application.E169FinalKeyword" />
-        <item itemvalue="JUnit.E168FinalKeywordTest" />
+        <item itemvalue="JUnit.E185ListTest" />
+        <item itemvalue="JUnit.E184ListTest" />
+        <item itemvalue="Application.E184List" />
+        <item itemvalue="JUnit.E183ListTest" />
+        <item itemvalue="Application.E183List" />
       </list>
     </recent_temporary>
   </component>
@@ -422,7 +542,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712913060783</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update">
+      <option name="closed" value="true" />
+      <created>1713626744973</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713626744973</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update new homework">
+      <option name="closed" value="true" />
+      <created>1713626801230</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1713626801230</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -444,9 +580,10 @@
     <MESSAGE value="update e66" />
     <MESSAGE value="did hw up to e83. passed all the test except for e72" />
     <MESSAGE value="done with all the hw and passed all the test." />
-    <MESSAGE value="update" />
     <MESSAGE value="done all homework and passed all the test" />
-    <option name="LAST_COMMIT_MESSAGE" value="done all homework and passed all the test" />
+    <MESSAGE value="update" />
+    <MESSAGE value="update new homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="update new homework" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
